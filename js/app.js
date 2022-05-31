@@ -1,4 +1,4 @@
-var app = {
+const app = {
   row: 4,
   col: 6,
   start: {
